@@ -13,4 +13,6 @@ I am Manikanta ,a coder, Web developer ,App developer ,youtube explorer.
 [Whatsapp](https://wa.me/919066128873)
 
 
-
+<br>
+<img src='https://github-readme-stats.vercel.app/api?username=deepakkapse&&show_icons=true&title_color=#81170D&icon_color=#81170D&text_color=000000&bg_color=F8E9FA'>
+<br>
