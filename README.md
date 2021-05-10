@@ -13,8 +13,8 @@ I am Manikanta ,a coder, Web developer ,App developer ,youtube explorer.
 [Whatsapp](https://wa.me/919066128873)
 
 
-<br>
-<img src='https://github-readme-stats.vercel.app/api?username=Manikanta05&&show_icons=true&title_color=#81170D&icon_color=#81170D&text_color=000000&bg_color=F8E9FA'>
-<br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manikanta05&theme=gotham&show_icons=true&include_all_commits=true" />
+</p>
 
 
