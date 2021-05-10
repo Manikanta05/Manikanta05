@@ -17,4 +17,4 @@ I am Manikanta ,a coder, Web developer ,App developer ,youtube explorer.
 <img src='https://github-readme-stats.vercel.app/api?username=Manikanta05&&show_icons=true&title_color=#81170D&icon_color=#81170D&text_color=000000&bg_color=F8E9FA'>
 <br>
 
-https://github-readme-stats.vercel.app/api?username=Manikanta05&theme=dark&show_icons=true
+
