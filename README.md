@@ -1,6 +1,7 @@
-### Hi there 👋
-I am Manikanta ,a coder, Web developer ,App developer ,youtube explorer.
 
+### Hi there 👋
+I am Manikanta ,a coder, Web developer ,App developer ,youtube explorer.<br>
+![](https://komarev.com/ghpvc/?username=Manikanta05)
 
 ## Connect with me,   
 
@@ -18,4 +19,4 @@ I am Manikanta ,a coder, Web developer ,App developer ,youtube explorer.
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=Manikanta05)
+
