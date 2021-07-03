@@ -1,5 +1,5 @@
 <head>
-  <link rel="icon" type="image/png" sizes="32x32" href="/android-chrome-192x192">
+  <link rel="icon" type="image/png" sizes="32x32" href="/android-chrome-192x192.png">
   </head>
 <body bgcolor="black">
   
