@@ -1,19 +1,25 @@
+<head>
+  <link rel="icon" type="image/png" sizes="32x32" href="/android-chrome-192x192">
+  </head>
 <body bgcolor="black">
   
-### Hi there 👋
-I am Manikanta ,a coder, Web developer ,App developer ,youtube explorer.<br>
-  
-![](https://komarev.com/ghpvc/?username=Manikanta05)
+ Hi there 👋
+  <h1>I am <strong>Manikanta</strong> ,a coder, Web developer ,App developer ,youtube explorer.<br></h1>
 
+  Aim to work in a dynamic environment, to get the best out of my skills which can be productive for the company as well as me. Having good knowledge in technical skills & zeal to learn from every task.<br>
+  <img src="https://komarev.com/ghpvc/?username=Manikanta05" />
+  
 ## Connect with me,   
 
-[Linkedin](https://www.linkedin.com/in/manikanta-b-818842192/)
+  <a href="https://www.linkedin.com/in/manikanta-b-818842192/">LinkedIn</a>
 
-[Facebook](https://www.facebook.com/profile.php?id=100012747905852)
+ <a href="https://www.facebook.com/profile.php?id=100012747905852">Facebook</a>
 
-[Instagram](https://www.instagram.com/manikanta._.mani/)
+<a href="https://www.instagram.com/manikanta._.mani/">Instagram</a>
 
-[Whatsapp](https://wa.me/919066128873)
+<a href="https://wa.me/919066128873">Whatsapp</a>
+  
+  <a href="https://www.hackerrank.com/Manikanta__B">HackerRank</a>
 
 
 <p align="center">
