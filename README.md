@@ -11,10 +11,10 @@
   
 <h3> Connect with me,</h3>   <br>
 
-  <a href="https://www.linkedin.com/in/manikanta-b-818842192/">LinkedIn</a><br><br>
- <a href="https://www.facebook.com/profile.php?id=100012747905852">Facebook</a><br><br>
-<a href="https://www.instagram.com/manikanta._.mani/">Instagram</a><br><br>
-<a href="https://wa.me/919066128873">Whatsapp</a><br>  <br>
+  <a href="https://www.linkedin.com/in/manikanta-b-818842192/">LinkedIn</a><br>
+ <a href="https://www.facebook.com/profile.php?id=100012747905852">Facebook</a><br>
+<a href="https://www.instagram.com/manikanta._.mani/">Instagram</a><br>
+<a href="https://wa.me/919066128873">Whatsapp</a><br>  
   <a href="https://www.hackerrank.com/Manikanta__B">HackerRank</a><br><br>
 <br><br>
 
