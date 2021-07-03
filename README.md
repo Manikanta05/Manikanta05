@@ -1,5 +1,5 @@
 <head>
-  <link rel="icon" type="image/png" sizes="32x32" href="android-chrome-192x192.png">
+  <link rel="icon" href="android-chrome-192x192.png">
   </head>
 <body bgcolor="black">
   
@@ -7,19 +7,15 @@
   <h1>I am <strong>Manikanta</strong> ,a coder, Web developer ,App developer ,youtube explorer.<br></h1>
 
   Aim to work in a dynamic environment, to get the best out of my skills which can be productive for the company as well as me. Having good knowledge in technical skills & zeal to learn from every task.<br>
-  <img src="https://komarev.com/ghpvc/?username=Manikanta05" />
+  <img src="https://komarev.com/ghpvc/?username=Manikanta05" /><br>
   
-## Connect with me,   
+<h3> Connect with me,</h3>   <br>
 
-  <a href="https://www.linkedin.com/in/manikanta-b-818842192/">LinkedIn</a>
-
- <a href="https://www.facebook.com/profile.php?id=100012747905852">Facebook</a>
-
-<a href="https://www.instagram.com/manikanta._.mani/">Instagram</a>
-
-<a href="https://wa.me/919066128873">Whatsapp</a>
-  
-  <a href="https://www.hackerrank.com/Manikanta__B">HackerRank</a>
+  <a href="https://www.linkedin.com/in/manikanta-b-818842192/">LinkedIn</a><br>
+ <a href="https://www.facebook.com/profile.php?id=100012747905852">Facebook</a><br>
+<a href="https://www.instagram.com/manikanta._.mani/">Instagram</a><br>
+<a href="https://wa.me/919066128873">Whatsapp</a><br>  
+  <a href="https://www.hackerrank.com/Manikanta__B">HackerRank</a><br>
 
 
 <p align="center">
