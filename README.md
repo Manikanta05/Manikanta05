@@ -4,11 +4,19 @@
 <body bgcolor="black">
   
  Hi there 👋
-  <h1>I am <strong>Manikanta</strong> ,a coder, Web developer ,App developer ,youtube explorer.<br></h1>
+  <h1>I am <strong>Manikanta</strong> ,coding enthusiast, Web developer ,App developer ,youtube explorer.<br></h1>
 
   Aim to work in a dynamic environment, to get the best out of my skills which can be productive for the company as well as me. Having good knowledge in technical skills & zeal to learn from every task.<br>
   <img src="https://komarev.com/ghpvc/?username=Manikanta05" /><br>
   
+- ✌️ I’m currently learning FullStack Development in Java 
+
+- 👨‍💻 All of my projects are available at [https://github.com/naikleelananda](https://github.com/naikleelananda)
+
+- 📫 How to reach me **leelanandanaik@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_O4Q1b40Y87TK_FxebgzY0IQ816kAn9I/view](https://drive.google.com/file/d/1_O4Q1b40Y87TK_FxebgzY0IQ816kAn9I/view)
+
 <h3> Connect with me,</h3>   <br>
 
   <a href="https://www.linkedin.com/in/manikanta-b-818842192/">LinkedIn</a><br>
