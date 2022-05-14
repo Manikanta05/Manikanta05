@@ -11,9 +11,9 @@
   
 - ✌️ I’m currently learning FullStack Development in Java 
 
-- 👨‍💻 All of my projects are available at [https://github.com/naikleelananda](https://github.com/naikleelananda)
+- 👨‍💻 All of my projects are available at [https://github.com/Manikanta05](https://github.com/Manikanta05)
 
-- 📫 How to reach me **leelanandanaik@gmail.com**
+- 📫 How to reach me **manikantabalasubramanya47@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_O4Q1b40Y87TK_FxebgzY0IQ816kAn9I/view](https://drive.google.com/file/d/1_O4Q1b40Y87TK_FxebgzY0IQ816kAn9I/view)
 
