@@ -9,7 +9,7 @@
   Aim to work in a dynamic environment, to get the best out of my skills which can be productive for the company as well as me. Having good knowledge in technical skills & zeal to learn from every task.<br>
   <img src="https://komarev.com/ghpvc/?username=Manikanta05" /><br>
   
-- ✌️ I’m currently learning FullStack Development in Java 
+- ✌️ I’m currently a Java Backend Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manikanta05](https://github.com/Manikanta05)
 
